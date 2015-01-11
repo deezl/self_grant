@@ -4,3 +4,5 @@ Code written by CWz as part of a custom sv_tools (server tools) mod written for 
 This part is offered as a stand-alone mod for server owners as a way for players to grant themselves
 interact after reading rules and typing a keyword into chat. The keyword can be changed by editing the 
 "inter_keyword.lua" file.
+
+This mod is offered as completely free, WTFPL.
